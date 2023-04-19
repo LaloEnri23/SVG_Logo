@@ -1,0 +1,5 @@
+    #folders and files git should ignore
+
+    .DS_Store
+    .node_modules
+    .CHallengeREADME.md

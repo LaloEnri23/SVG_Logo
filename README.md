@@ -12,6 +12,10 @@ SVG Logo Maker is a simple tool for creating logos in SVG format. With SVG Logo 
 - Export logo as SVG file
 - Download logo as PNG or JPG file
 
+## Tutorial Link
+
+https://drive.google.com/file/d/1ZuCPOz1b9LQpkImLfJl8ZEFhD3m8VnhK/view
+
 ## Requirements
 SVG Logo Maker has the following requirements:
 
